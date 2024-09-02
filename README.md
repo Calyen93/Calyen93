@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Car Dealer](https://github.com/develhope/Java23-Team2-Dealer)
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Java, SQL**
+- 💬 Ask me about **Java, SQL, Spring, Agile**
 
 - 📫 How to reach me **genco.claudio3@gmail.com**
 
