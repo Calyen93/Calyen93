@@ -34,7 +34,7 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
   <a href="https://github.com/javaee" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javaee/javaee-original.svg" alt="javaee" width="40" height="40"/>
+    <img src="oracle.com/java/technologies/java-ee-glance.html" alt="javaee" width="40" height="40"/>
   </a>
 </p>
 
