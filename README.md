@@ -25,7 +25,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Jakarta_EE_logo.svg" alt="jakartaee" width="40" height="40"/>
+    <!-- PNG thumb da Wikimedia: molto compatibile -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jakarta_ee_logo_schooner_color_horizontal_default.svg/512px-Jakarta_ee_logo_schooner_color_horizontal_default.svg.png" alt="jakartaee" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
@@ -43,5 +44,4 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   </a>
 </p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calyen93&show_icons=true&locale=en&layout=compact" alt="calyen93" /></p>
