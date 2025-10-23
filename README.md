@@ -24,10 +24,6 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="https://jakarta.ee/" target="_blank" rel="noreferrer">
-    <!-- PNG thumb da Wikimedia: molto compatibile -->
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Jakarta_ee_logo_schooner_color_horizontal_default.svg/512px-Jakarta_ee_logo_schooner_color_horizontal_default.svg.png" alt="jakartaee" width="40" height="40"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   </a>
