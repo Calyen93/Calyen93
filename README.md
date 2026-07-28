@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Italy</h3>
 
 
-- 🔭 I’m currently working on [Easy Appointment](https://github.com/UpCaveSoft/EasyAppointmentBE) w\ UpCave
+- 🔭 I’m currently working on [e-commerce] for La Beauté
 
 - 🌱 I’m currently learning **PHP & Angular**
 
