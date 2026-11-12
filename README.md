@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [e-commerce] for La Beauté
 
-- 🌱 I’m currently learning **PHP & Angular**
+- 🌱 I’m currently learning **PHP & C#**
 
 - 💬 Ask me about **Java, SQL, Spring, Agile**
 
